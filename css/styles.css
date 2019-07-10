@@ -16,9 +16,10 @@
 }
 
 body {
-  background-color: white;
+  background-image: url("../images/bgi.jpg");
+  background-color: black;
   padding: 10px 20px;
-  color: #020202;
+  color: white;
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }

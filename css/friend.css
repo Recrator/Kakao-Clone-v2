@@ -34,7 +34,7 @@
 
 .friend__content .friend__status,
 .friend__content .friend__bottom-text,
-.friend .chat__timestamp {
+.friend .chat__detail {
   opacity: 0.6;
 }
 
@@ -54,4 +54,8 @@
   align-items: center;
   background-color: #f5f5f5;
   border-radius: 5px;
+}
+
+.friend.friend--fp {
+  margin: 20px 0px;
 }
